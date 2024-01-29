@@ -1,0 +1,12 @@
+Usage:
+
+In order to run your favorite cases, set the parameters in 
+    userInputs.sh and then run and plot the results by executing
+    Allrun.sh and Allplot.sh scripts respectively.
+    
+userInputs.sh : Set the mesh, the solid models and the sampling 
+    schemes;
+Allrun.sh : Run the cases based on your settings in userInputs.sh;
+Allplot.sh : Plot the sampled results;
+Allsample-standalone.sh : In case you want only to change the 
+    sampling method and not re-running the cases, execute this script.
